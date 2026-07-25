@@ -1,1 +1,1 @@
-# for_ibm_practice
+# created during IBM fullstack javascript course
